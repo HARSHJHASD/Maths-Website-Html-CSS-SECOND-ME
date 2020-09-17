@@ -55,7 +55,7 @@ h2 {
 #rightsidebar ul li{
   list-style-image: url(images/tick.png);
 }
-
+/*
 .footer{
     height: 60px;
     background: linear-gradient(#F6F390, #D5D533);
@@ -64,7 +64,7 @@ h2 {
     background: -moz-linear-gradient(#F6F390, #D5D533);
     padding: 10px 30px;
     margin-top: 15px
-}
+} */
 
 #leftsidebar ul li{
   list-style-image:url(images/aero.png);
